@@ -2,6 +2,10 @@
 
 # Python virtual environment
 .venv/
+.venv/bin/
+/.venv/bin/
+.venv/**
+/.venv/**
 venv/
 
 # Byte-compiled / optimized / DLL files
