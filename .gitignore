@@ -1,0 +1,21 @@
+.DS_Store
+
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training / large data
+dataset/
+
+# Environment variables / secrets
+.env
+.env.*
+
